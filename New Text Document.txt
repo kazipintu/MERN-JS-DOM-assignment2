@@ -5,3 +5,9 @@
 5. 10% Tax to be determined from subtotal. Subtotal + Tax will provide Total price of the prodcuts.
 6. README.md file will provide project description with live link.
 7. Project should be pushed in GitHub regularly using CLI (command Line Interface) + more than 5 commits mandatory.
+
+
+1   100    1  100
+2   200    2  200
+3   600    3  
+4   2400
